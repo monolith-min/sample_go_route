@@ -1,4 +1,8 @@
-# sample_auto_route
+# sample_go_route
+
+link
+https://pub.dev/packages/go_router/example
+https://gorouter.dev/parameters
 
 A new Flutter project.
 
